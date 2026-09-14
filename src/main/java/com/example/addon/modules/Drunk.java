@@ -15,7 +15,6 @@ import net.minecraft.entity.effect.StatusEffects;
 import net.minecraft.registry.Registries;
 
 public class Drunk extends Module {
-    private final SettingGroup sgGeneral = this.settings.getDefaultGroup();
 
     public Drunk() {
         super(AddonTemplate.CATEGORY, "Drunk", "git drunk");
