@@ -25,10 +25,11 @@ repositories {
 dependencies {
     // Fabric
     minecraft(libs.minecraft)
-    implementation(libs.fabric.loader)
+    modImplementation(libs.fabric.loader)
+    mappings("net.fabricmc:yarn:1.21.10+build.3")
 
     // Meteor
-    implementation(libs.meteor.client)
+    modImplementation(libs.meteor.client)
 }
 
 java {

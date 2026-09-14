@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "id": "addon-template",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for Meteor Client addons.",
+  "name": "juanDeag Addon",
+  "description": "Yo choreo antenas papa de villa mariano moreno calle 13 tercer pasaje",
   "authors": [
-    "seasnail"
+    "juanDeag9"
   ],
   "contact": {
     "sources": "https://github.com/MeteorDevelopment/meteor-addon-template"
